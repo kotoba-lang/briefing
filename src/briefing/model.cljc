@@ -36,4 +36,4 @@
   (-> (briefing "weekly" {:briefing/title "Weekly briefing"})
       (add-item (item "h1" :headline {:briefing/text "Workspace apps are split into CLJC repos"}))
       (add-item (item "d1" :decision {:briefing/text "Use GitHub Pages default domains for preview"}))
-      (add-item (item "a1" :action {:briefing/text "Repair Cloudflare routes for gftd.ai hosts"}))))
+      (add-item (item "a1" :action {:briefing/text "Keep kotoba-lang Pages local"}))))

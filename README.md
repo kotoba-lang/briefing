@@ -1,9 +1,12 @@
 # briefing
 
-Portable CLJC briefing model for `briefing.gftd.ai`.
+[![CI](https://github.com/kotoba-lang/briefing/actions/workflows/ci.yml/badge.svg)](https://github.com/kotoba-lang/briefing/actions/workflows/ci.yml)
 
-Briefings gather agenda items, source references, decisions, and action items as
-plain EDN.
+Portable CLJC model for kotoba-lang/briefing.
+
+Pages editor: https://kotoba-lang.github.io/briefing/
+
+The Pages UI is local to kotoba-lang and does not redirect to external hosts.
 
 ## Test
 
