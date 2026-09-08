@@ -1,6 +1,6 @@
 (ns briefing.validate
   (:require [briefing.model :as model]
-            [clojure.string :as str]))
+            [kotoba.lang.text :as str]))
 
 (defn problem [severity code id msg]
   {:briefing/severity severity :briefing/code code :briefing/id id :briefing/msg msg})
